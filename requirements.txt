@@ -1,8 +1,4 @@
-streamlit 
-pandas 
-datetime
-plotly.express 
-random
-time
-timedelta
+streamlit
+pandas
+plotly
 numpy
