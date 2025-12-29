@@ -1,0 +1,8 @@
+streamlit 
+pandas 
+datetime
+plotly.express 
+random
+time
+timedelta
+numpy
